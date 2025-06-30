@@ -19,7 +19,7 @@ I blend the worlds of **UI/UX design**, **frontend development**, and **backend 
 
 ## 🔗 Connect With Me
 
-- 🔹 **Portfolio**: [My Creative Portfolio]([https://kavindi03.github.io/Test](https://kavindi03.github.io/Portfolio/))
+- 🔹 **Portfolio**: [My Creative Portfolio]([https://kavindi03.github.io/Test](https://kavindi03.github.io/Portfolio/)
 - 🔹 **LinkedIn**: [linkedin.com/in/kavindi-pankaji-01308530b](https://www.linkedin.com/in/kavindi-pankaji-01308530b)
 - 🔹 **GitHub**: [github.com/kavindi03](https://github.com/kavindi03)
 - 🔹 **Email**: [kavindipankaji@gmail.com](mailto:kavindipankaji@gmail.com)
