@@ -1,80 +1,99 @@
-<h1 align="center">✨ Kavindi Pankaji ✨</h1>
-<h3 align="center">SLIIT Undergraduate | Software Engineer | UI/UX Designer | QA Enthusiast | Creative Technologist</h3>
+# 👋 Hi, I'm Kavindi Pankaji
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Designing+Figma+Creatively...;Coding+Frontend+%26+Backend+beautifully...;Exploring+IT+%F0%9F%92%BB;Learning+Every+Day+%E2%9C%A8" alt="Typing SVG" />
-</p>
+![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 
----
-
-## 🌟 About Me
-
-Hi, I'm **Kavindi Pankaji**, a 2nd year IT undergraduate at **SLIIT**, majoring in **Software Engineering**.  
-I blend the worlds of **UI/UX design**, **frontend development**, and **backend logic**, building full-stack systems with creative UI and functional code.
-
-📍 From Sri Lanka | 💬 English & Sinhala speaker  
-🧑‍🎓 School Prefect | 🏆 Sports Achiever | 🎶 Passionate Singer  
+I’m a **Front-End Developer | Full-Stack Enthusiast | UI/UX Designer | Android Developer** from **Sri Lanka**.  
+I love building **responsive web apps**, **mobile apps**, and **beautiful UI/UX designs**.
 
 ---
 
-## 🔗 Connect With Me
-
-- 🔹 **Portfolio**: [My Creative Portfolio]([https://kavindi03.github.io/Test](https://kavindi03.github.io/KavindiPankajiPortfolio/)
-- 🔹 **LinkedIn**: [linkedin.com/in/kavindi-pankaji-01308530b](https://www.linkedin.com/in/kavindi-pankaji03/)
-- 🔹 **GitHub**: [github.com/kavindi03](https://github.com/kavindi03)
-- 🔹 **Email**: [kavindipankaji@gmail.com](mailto:kavindipankaji@gmail.com)
-
----
-
-## 💼 My Projects
-
-### 🔷 Full Stack
-- **Online Advertising Agency** – Use cases, personas, login/signup system, admin features
-- **Tourism Website** – HTML/CSS/JS + PHP + MySQL for dynamic travel listings
-
-### 🎨 Figma Designs
-- [🍔 Food Delivery App UI](https://www.figma.com/file/yourfigmalink) – Fully responsive, modern UI
-- 🎓 SLIIT Library System Interface
-- 🏫 Education Platform Dashboard
-- 🧾 Profile & Portfolio Mockups
-
-### 💻 Frontend
-- [🎮 Tic-Tac-Toe Game](https://github.com/kavindi03/tic-tac-toe)
-- [🌈 Portfolio Website]([https://github.com/kavindi03/portfolio](https://kavindi03.github.io/Portfolio/))
-- [📥 Contact Form Validator](https://github.com/kavindi03/contact-form)
-
-### 🖥️ Backend
-- 🔐 Login/Registration System (PHP + MySQL)
-- 🛒 E-commerce Cart System (Node.js + MongoDB)
-- 💬 Firebase-based Chat App
+## 🚀 About Me
+- 🎓 Student at **SLIIT University**  
+- 💻 Skilled in **React, TypeScript, Node.js, PHP, Kotlin, MongoDB, MySQL**  
+- 🎨 Experienced in **UI/UX Design** with **Figma & Adobe XD**  
+- 🏆 Multiple academic and sports awards  
+- 🌐 Open for **projects, collaborations, and internships**  
 
 ---
 
-## 📜 Certifications
-
-| Certificate | Issued By | Link |
-|------------|------------|------|
-| 🧩 C++ Programming | Simplilearn | [View](https://drive.google.com/file/d/1VeG9Y1Z0YSXqQ1eg6OuoC_g5HKwtLb0_) |
-| 🎨 HTML & CSS | Great Learning | [View](https://drive.google.com/file/d/1D1f0FuZm6y9BkxjHMdC2idXr8GtTMViQ) |
-| 🌐 Web Design | University of Moratuwa | [View](https://drive.google.com/file/d/1DJ4X0Q3oiD-aZwHSnC-CBTj_PjaiWqOz) |
-| 🎯 Prefect Leadership & Sports Awards | Samudradevi Balika | 🏅 |
+## 🏆 Awards & Achievements
+| 🏅 Award | 🏫 Issuer | 📅 Date |
+|----------|-----------|---------|
+| 🏃‍♀️ 400m x4 Relay – Inter-University Meet | SLIIT | Sep 2025 |
+| 🏃‍♀️ High Jump – MOMENTUM'25 | SLIIT | Sep 2025 |
 
 ---
 
-## 📚 Education
+## 💻 Projects
 
-- 🎓 **SLIIT University**, Malabe  
-  *BSc in Information Technology, Software Engineering (2023–2027)*
+### 🌐 Web Projects
+| Project | Description | Tech | Links |
+|---------|------------|------|-------|
+| **CaféPOS** | Web-based café billing & inventory system | MERN, JWT | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gayaltil954/pos-system) |
+| **Portfolio Website** | Personal portfolio with modern UI | React, TypeScript, Tailwind | [View](https://kavindipankaji.github.io/Portfolio) |
+| **Online Event Planner** | Full CRUD for event bookings | Java, HTML, CSS, JS | [GitHub](https://github.com/kavindi03/OnlineEventManagementSystem) |
+| **Online Advertising Agency Platform** | User registration & order system | PHP, MySQL, HTML, CSS, JS | [GitHub](https://github.com/kavindi03/Online-Advertising-Agency-Platform) |
 
-- 🏫 **Samudradevi Balika Vidyalaya**, Nugegoda  
-  *Senior Prefect, Sports & Academics*
+### 📱 Mobile Projects
+| Project | Tech | Links |
+|---------|------|------|
+| **Coffee Ordering App** | Kotlin, Android | [GitHub](https://github.com/kavindi03/Coffee-App) |
+| **PetCareBuddy** | Kotlin, Android | [GitHub](https://github.com/kavindi03/Pet-Care-Buddy-Android-App) |
+| **Wellness Tracker** | Kotlin, Android | [GitHub](https://github.com/kavindi03/Wellness_App) |
+
+### 🎨 UI/UX Designs
+| Project | Tool | Links |
+|---------|------|------|
+| Coffee App UI | Figma | [Figma](https://www.figma.com/design/sMVXeW8ln286cah2GcYKVs/Coffee-App?node-id=0-1&t=xYDNzJBr9Bjz0cEa-1) |
+| SoulNest App | Figma | [Figma](https://www.figma.com/design/n97oGDXooxc8mgmBCTgrTy/SoulNest?node-id=175-2&t=z8iSjEbc8EU6TiMo-1) |
+| PetCare App | Figma | [Figma](https://www.figma.com/design/xPnfvd5QDk16qTPYKCwjQa/PetApp?node-id=0-1&t=CG5wAB6PLeqoGZu7-1) |
+| E-Commerce Mobile App | Figma | [Figma](https://www.figma.com/design/bFBFNCy43xQJTzOzJVgtKg/E-Commerce-Mobile-App?node-id=0-1&t=BVgsvrDxdo6dPwPF-1) |
+| Food Delivery App | Figma | [Figma](https://www.figma.com/design/DtYJn47EPODuf4gPEqgr39/Food-Mobile-App?node-id=0-1&t=q8zZbZwrJHxzNpAV-1) |
 
 ---
 
-## 🎯 Skills & Tools
+## 🎓 Certifications
+| Certificate | Issuer | Date | Credential |
+|------------|--------|------|-----------|
+| AI/ML Engineer Stage 1 | SLIIT | Aug 2025 | [![View](https://img.shields.io/badge/View-Credential-ff69b4?style=flat-square)](https://drive.google.com/file/d/1lpH7R27PcE-n8lBAftP9iyEw7yJwanyf/view?usp=sharing) |
+| Front-End & Angular | Univ of Moratuwa | Nov 2025 | [View](https://example.com/certificate/2) |
+| Python for Beginners | Univ of Moratuwa | Nov 2025 | [View](https://example.com/certificate/3) |
+| Python Programming | Univ of Moratuwa | Nov 2025 | [View](https://example.com/certificate/4) |
+| Web Design for Beginners | Univ of Moratuwa | Sep 2023 | [View](https://drive.google.com/file/d/1O6er0FwMHvdBDQE04-rM3dgKZsZ13CWn/view?usp=sharing) |
+| Multicloud Network Associate | Aviatrix | Oct 2025 | [View](https://drive.google.com/file/d/1asz68CmV9NyBKbGnTv3TLmMgUx-I5a_R/view?usp=sharing) |
+| UI/UX Wireframing | Alison | Jul 2025 | [View](https://drive.google.com/file/d/1T2BRZqG3JoxZXnNME9Ad_HzZV4svLM9U/view?usp=sharing) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-Soft Skills:    Leadership, Communication, Problem Solving
-QA/Testing:     Manual Testing, Bug Reporting, UI Flow Checks
+## ⚡ Skills
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Mobile & Tools
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindi-pankaji03/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavindi03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindipankaji@gmail.com)
+
+---
+
+✨ Let's build something **amazing together!**
