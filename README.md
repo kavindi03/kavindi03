@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kavindi Pankaji
 
-![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-
 I’m a **Front-End Developer | Full-Stack Enthusiast | UI/UX Designer | Android Developer** from **Sri Lanka**.  
 I love building **responsive web apps**, **mobile apps**, and **beautiful UI/UX designs**.
 
